@@ -1,0 +1,50 @@
+{
+  "id": "7c3908e2-a324-4177-a0f4-419f8015a540",
+  "name": "November",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "eab324a1-508d-4925-9423-446eeb17efbd",
+          "name": "november",
+          "required": false,
+          "dataType": "@November",
+          "value": "$november",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The festivals are Govardhan Puja, Guru Purab, Bhai duj, Guru Nanak Jayanti. The birthday of Jawahar Lal Nehru or \"Chacha Nehru \" , which is celebrated as Children\u0027s Day"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

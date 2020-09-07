@@ -1,0 +1,50 @@
+{
+  "id": "aae4bf61-65d3-4a4e-9d03-1640c6a4bbd5",
+  "name": "August",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d24555a3-c192-47cd-8962-e415e0e91e27",
+          "name": "august",
+          "required": false,
+          "dataType": "@August",
+          "value": "$august",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are the festivals :-  Indepedence Day, india became an independent naton on this day, \nRaksha Bandhan the festival of brother -sister  ,\nParsi NewYear,    Muharram,     \nOnam - festival of harvest by malayali people, especially celebrated in KERALA  ,\nJanmashtami  - the birthday of Lord Krishna, 8 avatar of Lord Vishnu ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

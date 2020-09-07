@@ -1,0 +1,67 @@
+[
+  {
+    "id": "06baee78-d246-442c-b1c0-6c92d75e29d2",
+    "data": [
+      {
+        "text": "Leave the conversation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e8e38e2e-3beb-4fae-bcbd-8422368a90ad",
+    "data": [
+      {
+        "text": "exit",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e2de300-a0ab-4f62-aa51-082a6fe5347d",
+    "data": [
+      {
+        "text": "Thank you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c722c0bb-d88e-437f-9c42-4a1ad47ac7f6",
+    "data": [
+      {
+        "text": "No more questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "18f19531-3c1f-42e3-95d3-70261fc36601",
+    "data": [
+      {
+        "text": "bye",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  }
+]

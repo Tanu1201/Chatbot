@@ -1,0 +1,50 @@
+{
+  "id": "db648dd6-0a0e-414c-8f3b-f4b7aa2d80db",
+  "name": "October",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f435b527-8d39-47bc-8972-e0f5317fc8fa",
+          "name": "october",
+          "required": false,
+          "dataType": "@October",
+          "value": "$october",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Birthday of father of Nation \"Mahatma Gandhi Jayanti\", \nCommonly called as \"NAVRATRI \" or Maha Navmi, falls in it , it is especially celebrated in Gujarat . \nThe festival of Dussehra , the reason with this is victory of good over evil .\nDeepawali or \"DIWALI\"   the festival of lights."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

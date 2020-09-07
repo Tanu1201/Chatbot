@@ -1,0 +1,61 @@
+{
+  "id": "ec60580d-163e-4f0b-b886-7ed98ec11530",
+  "name": "Month_1",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.month",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d8eb0f8c-08fc-4ae5-ab6a-81023c3317f0",
+          "name": "January",
+          "required": true,
+          "dataType": "@Months",
+          "value": "$January",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The first month of every year  , have these festivals , all of them represents the same thing , namely are :-  \nNew Year,\n Republic Day, \nMakar sakranti, \nPongal"
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "platform": "facebook",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "NEW YEAR, LOHRI,REPUBLIC DAY,PONGAL,MAKAR SANKRANTI"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

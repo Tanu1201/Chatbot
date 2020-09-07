@@ -1,0 +1,55 @@
+{
+  "id": "b2506e50-0893-46f3-b01b-41c4b56ff244",
+  "name": "April",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "April-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "c4d33176-6dc4-4ac8-b563-9fb72aef279f",
+          "name": "april",
+          "required": false,
+          "dataType": "@April",
+          "value": "$april",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The festivals of april are :- Baisakhi : spring harvest festival for Sikhs and Hindus, \n Good Friday ,\n Ambedker Jayanti, \nRamnavmi ,\nMahavir jayanti,"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

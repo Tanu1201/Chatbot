@@ -1,0 +1,50 @@
+{
+  "id": "68df1604-f882-4be4-8d1e-b7a367803f77",
+  "name": "September",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "83333ec3-0c9e-440d-9458-37319ee0249d",
+          "name": "september",
+          "required": false,
+          "dataType": "@September",
+          "value": "$september",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Ganesh Chaturthi.: - birth of Lord Ganesha, the God of new beginnings and a fresh start.\nThe birthday of  S. Radhakrishan , which is celebrated as \" Teacher\u0027s Day\"."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

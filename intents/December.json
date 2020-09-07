@@ -1,0 +1,50 @@
+{
+  "id": "b58c09ac-3cc1-4ab3-a4f4-35548f059053",
+  "name": "December",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5c13dcf-a7e3-4c3a-a528-6c468a8791c3",
+          "name": "december",
+          "required": false,
+          "dataType": "@December",
+          "value": "$december",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Christmas ,birth of Jesus Christ  the Son of God, came to Earth for all people, symbolised through the visits of the wise men and the shepherds ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

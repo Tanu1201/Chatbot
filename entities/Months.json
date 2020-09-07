@@ -1,0 +1,9 @@
+{
+  "id": "a29680bb-a9d5-48f9-9cdb-34042fea2c9c",
+  "name": "Months",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

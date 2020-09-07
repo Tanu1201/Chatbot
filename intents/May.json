@@ -1,0 +1,50 @@
+{
+  "id": "03b96589-53ca-4684-a62c-4abb473809d1",
+  "name": "May",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcbd70f2-2fc9-477b-83fb-bc0c3b1c6d11",
+          "name": "may",
+          "required": false,
+          "dataType": "@May",
+          "value": "$may",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "The festivals which fall in the month of may  are:- \nThrissur Pooram , the day when the moon rises with the Pooram star in the Malayalam Calendar month of Medam.\nEid - ul -Fitr, :- called the \"Festival of Breaking the Fast\"\nVesak ,also known as Buddha Jayanti,"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

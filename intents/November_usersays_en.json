@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cac2cece-5d83-4731-b6d2-5693e885fff5",
+    "data": [
+      {
+        "text": "nov",
+        "meta": "@November",
+        "alias": "november",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2e453c6-ca6a-4a1e-897c-91c583784b49",
+    "data": [
+      {
+        "text": "November",
+        "meta": "@November",
+        "alias": "november",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

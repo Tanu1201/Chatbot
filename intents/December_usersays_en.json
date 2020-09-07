@@ -1,0 +1,32 @@
+[
+  {
+    "id": "a704bf6e-d373-4742-bb9b-dc28c7ba8e3f",
+    "data": [
+      {
+        "text": "Dec",
+        "meta": "@December",
+        "alias": "december",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aeacc1d4-b665-494c-a7a8-d262ba229f03",
+    "data": [
+      {
+        "text": "December",
+        "meta": "@December",
+        "alias": "december",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

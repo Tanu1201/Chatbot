@@ -1,0 +1,32 @@
+[
+  {
+    "id": "0a66fbfe-6194-4a3e-9a13-fd6b2ad0e791",
+    "data": [
+      {
+        "text": "aug",
+        "meta": "@August",
+        "alias": "august",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4b2a3b60-4199-4cd6-af76-5aa80932a796",
+    "data": [
+      {
+        "text": "August",
+        "meta": "@August",
+        "alias": "august",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "1bfda0a1-dfe0-4016-8058-683a57b2978d",
+  "name": "February",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1c325dc5-364a-476a-8688-de948d1d0f14",
+          "name": "february",
+          "required": true,
+          "dataType": "@February",
+          "value": "$february",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "February reminds us of love week  , but we have to more festivals in this  , which are Basant Panchmi and Shiv Ratri. And  Valentines Day is here"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
